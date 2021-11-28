@@ -2,11 +2,12 @@
 
 This Repository contains all the code and dcumentation for the project.
 
-Source Code - This folder contains the source code of the web application which is deployed on Heroku.
-Documentation - The project proposal, PPT presentations and final report for the project is gathered here.
-Screenshots - This placeholder contains the images of various visualizations built from the dataset.
+* Documentation - The project proposal, PPT presentations and final report for the project is gathered here.
+* Models - To refer the code for Machine learning models trained on the COVID-19 Radiography Dataset.
+* Source Code - This folder contains the source code of the web application which is deployed on Heroku.
+* Screenshots - This placeholder contains the images of various visualizations built from the dataset.
 
-Dataset used - https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+COVID-19 Radiography Dataset - https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
 
 
