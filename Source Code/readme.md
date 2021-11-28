@@ -1,4 +1,4 @@
-## Source code folder contains the codes for covid19 radiography web application.
+## Source code folder contains the codes for web application.
 
 ## About
 
